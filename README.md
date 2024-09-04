@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi, I'm UmuTRexe!
 
-<!--
-**UmuTRexe/UmuTRexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+    <a href="https://discord.com/users/487690544361766912">
+  <img src="https://lanyard.cnrad.dev/api/487690544361766912"></a>
+</div>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+### 👤 Accounts
+<div align="center">
+   <a href="https://discord.com/users/487690544361766912" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://github.com/UmuTRexe" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
